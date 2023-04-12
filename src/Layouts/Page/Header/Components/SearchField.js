@@ -41,6 +41,7 @@ function SearchField() {
                 <IconOnlyButton icon={<SearchIcon/>}/>
             </SearchIconWrapper>
         </WrapperInput>
+        
     );
 }
 
