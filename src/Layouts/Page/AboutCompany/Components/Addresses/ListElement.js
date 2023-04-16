@@ -7,7 +7,7 @@ import IconOnlyButton from '../../../../../Components/IconOnlyButton.js';
 const Option = styled.div`
     outline: none;
     border-radius: 0px;
-    color: #666787;
+    color: #0F172A;
 `;
 
 function ListElement(props) {
